@@ -13,8 +13,9 @@ LIB_PATH = lib
 # --------------
 # OUTPUT FOLDERS
 # --------------
-BIN_PATH = bin
-OBJ_PATH = obj
+LIB_PATH = C:/Users/Thomas/Desktop/HEI4/Semestre1/Domaine/Reseau/hei-2018-2019-lab-sens-it-roland-gosselin-baron/sensit-sdk-v2.0.0/sdk/lib
+BIN_PATH = C:/Users/Thomas/Desktop/HEI4/Semestre1/Domaine/Reseau/hei-2018-2019-lab-sens-it-roland-gosselin-baron/sensit-sdk-v2.0.0/sdk/bin
+OBJ_PATH = C:/Users/Thomas/Desktop/HEI4/Semestre1/Domaine/Reseau/hei-2018-2019-lab-sens-it-roland-gosselin-baron/sensit-sdk-v2.0.0/sdk/obj
 
 
 # ------------
