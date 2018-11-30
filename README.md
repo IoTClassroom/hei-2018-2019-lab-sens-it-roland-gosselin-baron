@@ -110,15 +110,6 @@ Your Sens'it messages must now be appearing on the platform and you should also 
 ---
 ---
 
-# Hint
-
-If you want to return to the **original firmware** of the Sens'it 3, use the following command to program it:
-```
-dfu-util -a 0 -s 0x08000000:leave -D bin/sensit_discovery_vX.X.X.bin
-```
-Replace `X.X.X` with the current version of the Discovery firmware available in the `bin` folder.
-
-
 # PART 2 - Implementing a use case
 
 ## Use case
